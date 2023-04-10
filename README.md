@@ -2,27 +2,37 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&width=150%&height=200&fontAlignY=40&text=airGnG&color=gradient)
 
--   시연영상 :
--   에어비앤비 홈페이지 클론코딩
+안녕하세요, 저희는 'AirGnG' 팀입니다.
 
-개발기간 및 인원
+'AirGnG' 는 Wecode 코딩 부트캠프 41기 학생들로 구성된 최종 프로젝트 팀명이자 저희의 서비스 이름으로,
+제주도에 대한 숙박시설에 대한 정보 및 예약서비스와 둘로 나뉘어진 사용자그룹에게 커뮤니티 서비스를 제공하는 애플리케이션입니다.
+'Airbnb' 사이트 클론 코딩
+'Airbnb' 는 미국의 숙박 공유 서비스로 온라인으로 게스트가 호스트의 방을 빌리는 과정을 중개해주는 서비스입니다. 호스트가 잘 곳을 빌려주고 아침 식사도 하자는 (Air Bed & Breakfast)의 의미를 가진 서비스를 제공합니다.
 
--   개발 기간 : 2023년 1월 30일 ~ 2023년 2월 10일 (12일)
--   개발 인원 : FrontEnd (김기윤(PM), 김철호, 조윤환, 박환성), BackEnd (김승기(PM))
+<br>
 
-# Developers
+## 🐩 서비스 소개
+* 소셜 로그인 기능을 이용해 번거로운 회원가입 절차를 생략하여 사용자의 접근성과 편의성을 높였습니다.
+* 게스트들이 가볼만한 장소및 숙박시설을 컨텐츠별로 조회할 수 있어 원하는 지역의 숙소 정보를 빠르게 찾아볼 수 있습니다.
+    * 지도API 를 사용하여 산책로의 위치를 지도 위에 좌표로 표시해 줍니다.
+* 게스트가 즐겨찾기한 호스트의 숙소와 게시글을 마이페이지에 모아서 볼 수 있도록 하여 게스트의 히스토리를 기록하고 즐겨찾기한 숙소들을 한 눈에 조회할 수 있습니다.
+* 호스트가 게시한 숙소에 대한 관리를 할 수 있도록 호스트페이제에 모아서 조회할 수 있습니다.
 
-### Back-End Developers
+<br>
 
-|                                                               김승기 (BE)                                                               | 권태령 (BE)                                                                                                                            |
-| :-------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-| [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/seuungkei) | [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/taegoori) |
+## 🗓 Project기간
+2023/01/30 ~ 2023/02/10 (약 2주)
 
-### Front-End Developsers
+<br>
 
-|                                                               김철호 (FE)                                                               |                                                               김기윤 (FE)                                                                |                                                               조윤환 (FE)                                                                | 박환성 (FE) |
-| :-------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | ----------- |
-| [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/ijinkyung) | [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/kiyoon0122) | [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/cccodus313) |
+## 👥 인원 및 구성
+### Back-End
+
+[김승기 (PM)](https://github.com/seuungkei), [권태령](https://github.com/taegoori)
+
+### Front-End
+
+[김기윤(PM)](https://github.com/kiyoon0122), [김철호], [조윤환], [박환성]
 
 # STACK
 
